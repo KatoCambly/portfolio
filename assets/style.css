@@ -8,8 +8,10 @@ footer {width:100%;
         background-color: silver;
         color: black;
 }
-h1,
-h2 {
+h1 {align: left}
+h2,
+h3,
+h4 {
     text-align: center;
 }
 ul {
